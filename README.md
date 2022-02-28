@@ -1,7 +1,7 @@
 Hi, I’m @KevyKenny
-I’m interested in 3D Technology 
+I’m interested in developing softwares 
 I’m currently learning Computer Science
-I’m looking to collaborate on how to develop 3D techs through different coding theories.
+I’m looking to collaborate on how to develop softwares through different programming languages .
 Contact me on this platform via the username above and have some discussions pertaining to our goals.
 
 <!---
